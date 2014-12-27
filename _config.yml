@@ -23,9 +23,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/trafficofficer
   - title: github
     url: https://github.com/trafficofficer
-  - title: linkedin
-    url: 
+  - title: gitter
+    url: https://gitter.im/trafficofficer
+  - title: twitter
+    url: https://twitter.com
