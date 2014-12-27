@@ -1,5 +1,9 @@
-Welcome to Traffic Officer
-============================
+---
+layout: default
+category: Services
+title: Welcome to Traffic Officer
+description: 
+---
 [![Bountysource](https://www.bountysource.com/badge/team?team_id=54082&style=bounties_posted)](https://www.bountysource.com/teams/trafficofficer/bounties?utm_source=Traffic%20Officer&utm_medium=shield&utm_campaign=bounties_posted)
  
 According to WHO (World Health Organization), over 1.2 million people die every year and over 50 million are injured in traffic, with the intention of reducing these numbers and the will to make the world a better place through technology, we created the Traffic Officer.
@@ -29,4 +33,3 @@ The github project is divided into:
  - [server-api](https://github.com/trafficofficer/server-api)
  - [web-site](https://github.com/trafficofficer/web-site)
  
-### Let's make a better world!
